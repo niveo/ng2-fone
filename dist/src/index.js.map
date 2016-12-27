@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/index.ts"],"names":[],"mappings":"AAAA,SAAQ,aAAa,QAAO,mBAAmB,CAAC;AAChD,SAAQ,OAAO,QAAO,YAAY,CAAC","sourcesContent":["export {Ng2FoneModule} from './ng2-fone.module';\nexport {Ng2Fone} from './ng2-fone';\ninterface DecoratorInvocation {\n  type: Function;\n  args?: any[];\n}\n"]}
